@@ -1,4 +1,4 @@
-### Bem vindo ao meu mundo :tw-1f44b:
+### Bem vindo ao meu mundo 
 
 [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/logo-blue.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") 
 
