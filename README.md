@@ -3,12 +3,10 @@
 [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/www.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/email.png)](mailto:janiltojack1@gmail.com "Entre em ontato") 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janiltojack1@gmail.com)](honatan.nuss082897@gmail.com)
-
 Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
 
 ----
-![Jhon-Dev's github stats](https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=dracula)
+![Jackanilto's github stats](https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=dracula)
 
 ---
 ### Meus interesses:
