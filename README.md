@@ -1,7 +1,9 @@
 ### Bem vindo ao meu mundo 
 
-[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/www.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/e-mail.png)](mailto:janiltojack1@gmail.com "Entre em ontato") 
 
+### Sobre mim:
+Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sistemas na Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
+Tenho o objetivo de me tornar um profissional atualizado no mercado de tecnologico contribuindo de forma efetiva com o mercado de trabalho.
 
 Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
 
@@ -12,10 +14,8 @@ Este é o meu diretorio de projetos, aqui estarei atualizando material de trabal
 ### Meus interesses:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)  ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 
-### Sobre mim:
-Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sistemas na Estácio, continuamente busco experiencia fazendo cursos em diversas plataformas.
-Tenho o objetivo de me tornar um profissional atualizado no mercado de tecnologico contribuindo de forma efetiva com o mercado de trabalho.
 
+[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/www.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/e-mail.png)](mailto:janiltojack1@gmail.com "Entre em ontato") 
 
 
 <!--
