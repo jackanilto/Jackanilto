@@ -3,7 +3,7 @@
 
 ### Sobre mim:
 Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sistemas na Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
-Tenho o objetivo de me tornar um profissional atualizado no mercado de tecnologico contribuindo de forma efetiva com o mercado de trabalho.
+Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma efetiva com o mercado de trabalho.
 
 Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
 
