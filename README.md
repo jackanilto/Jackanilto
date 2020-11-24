@@ -6,10 +6,13 @@ Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sis
 Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma efetiva com o mercado de trabalho.
 
 ----
+<p align="center">
 ![Jackanilto's github stats](https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=dracula)
-
+</p>
 ---
+
 ### Meus interesses:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)  ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 
 
