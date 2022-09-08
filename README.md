@@ -10,8 +10,9 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 
 ----
 
-![Jackanilto's github stats](https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=dracula)
-
+![Jackanilto's github stats](https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=algolia )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackanilto&layout=compact)](https://github.com/jackanilto/github-readme-stats)
+----
 ---
 
 ### Meus interesses:
