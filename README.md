@@ -1,9 +1,12 @@
 ### Bem vindo ao meu mundo 
 Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
 ----
-### Sobre mim:
+<details>
+<summary>### Sobre mim:</summary>
+<br>
 Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sistemas na Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
 Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma efetiva com o mercado de trabalho.
+</details>
 
 ----
 
