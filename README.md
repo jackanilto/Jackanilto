@@ -17,7 +17,13 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 
 ### Meus interesses:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)  ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-square&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/www.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/e-mail.png)](mailto:janiltojack1@gmail.com "Entre em ontato") 
