@@ -14,6 +14,11 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackanilto&layout=compact)](https://github.com/jackanilto/github-readme-stats)
 ----
 ---
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janilto-oliveira/)](https://www.linkedin.com/in/janilto-oliveira/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988169294!)](https://api.whatsapp.com/send?phone=5522988169294!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white&link=mailto:jncenter3@gmail.com)](mailto:jncenter3@gmail.com)
+
+![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
 ### Meus interesses:
 
