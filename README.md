@@ -1,7 +1,7 @@
-### Bem vindo ao meu mundo 
+## Bem vindo ao meu mundo 
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
-Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
+#### Este é o meu diretorio de projetos, aqui estarei atualizando material de trabalho e estudos.
 ----
 <details>
 <summary> Sobre mim:</summary>
@@ -23,7 +23,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
 <center>
-  <table width="100%">
+  <table>
     <tr>
         <td><img width="100px" align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janilto-oliveira/)](https://www.linkedin.com/in/janilto-oliveira/" /></img></td>
         <td><img width="120px" align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988169294!)](https://api.whatsapp.com/send?phone=5522988169294!"/></img></td>
@@ -35,7 +35,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 ### Meus interesses:
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 <center>
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
         <td><img width="50x" align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-square&logo=java&logoColor=white"/></td>
         <td><img width="100" align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-square&logo=spring&logoColor=white"/></td>
@@ -46,7 +46,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
     </tr>
   </table>
 </center>
----
+
 
 
 [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/www.png)](https://jncenter.com.br/ "Serviços Web") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/zap.png)](https://api.whatsapp.com/send?phone=5522988498559! "Fale comigo no WhatsApp")[![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/insta.png)](https://www.instagram.com/janiltojack/ "Siga-me no Instagram") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/fb.png)](https://www.facebook.com/janiltojack "Visite meu perfil no FB") [![](https://jncenter.com.br/imagem-novas-contas-hospedagem/github-img/e-mail.png)](mailto:janiltojack1@gmail.com "Entre em ontato") 
