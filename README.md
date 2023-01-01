@@ -27,7 +27,6 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
   </table>
 </center>
 
-![Snake animation](https://github.com/jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg)
 
 ### Meus interesses:
 <p align="center">
