@@ -33,7 +33,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,spring,figma&perline=9" />
 </p>
 
-
+![snake gif](https://github.com/Jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **jackanilto/Jackanilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
