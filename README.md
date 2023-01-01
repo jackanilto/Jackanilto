@@ -1,8 +1,8 @@
 <h1 align="center">Vitor Lostada da Cunha</h1>
 
 <p align="center">
-    <a href="mailto:vitorlostada@hotmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <a href="mailto:jncenter3@gmail.com">
+        <img width="80px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/janilto-oliveira/">
