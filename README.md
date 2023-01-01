@@ -30,7 +30,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 
 ### Meus interesses:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,spring,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,vscode,spring,github,figma&perline=9" />
 </p>
 
 ![snake gif](https://github.com/Jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg)
