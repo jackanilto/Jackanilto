@@ -35,6 +35,7 @@ Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma 
 
 ![snake gif](https://github.com/Jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg)
 
+
 <!--
 **jackanilto/Jackanilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
