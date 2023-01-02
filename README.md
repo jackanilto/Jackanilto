@@ -1,6 +1,6 @@
 <h1 align="center">Janilto Oliveira da Silva</h1>
 <br>
-Meu chamo Janilto Oliveira&reg;, estou cursando Analise e desenvolvimento de sistemas na Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
+Meu chamo Janilto Oliveira&reg;, tenho formação em Analise e desenvolvimento de sistemas pela Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
 Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma efetiva com o mercado de trabalho.
 
 <p align="center">
