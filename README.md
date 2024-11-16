@@ -3,7 +3,7 @@ Aqui está uma versão revisada do seu **README** com melhorias para uma apresen
 ---
 
 <h1 align="center">Janilto Oliveira da Silva</h1>
-<p align="center"> Especialista em Desenvolvimento de Software | Analista e Engenheiro de Software </p>
+<p align="center"> Análise e Desenvolvimento de Sistemas | Engenharia de Software </p>
 
 ---
 
