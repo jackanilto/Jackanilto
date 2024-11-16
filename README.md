@@ -43,7 +43,7 @@ Meu objetivo é me destacar como um profissional atualizado, contribuindo para o
 ### 🛠️ Habilidades Técnicas
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,vscode,spring,github,figma&perline=9" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,mysql,git,laravel,github=9" alt="Minhas Habilidades" />
 </p>
 
 ---
