@@ -1,5 +1,3 @@
-Aqui está uma versão revisada do seu **README** com melhorias para uma apresentação pessoal ou profissional mais clara, alinhada às boas práticas de estruturação e formatação:
-
 ---
 
 <h1 align="center">Janilto Oliveira da Silva</h1>
