@@ -3,9 +3,7 @@ Aqui está uma versão revisada do seu **README** com melhorias para uma apresen
 ---
 
 <h1 align="center">Janilto Oliveira da Silva</h1>
-<p align="center">
-    Analista de Sistemas | Desenvolvedor Full Stack
-</p>
+<p align="center"> Especialista em Desenvolvimento de Software | Analista e Engenheiro de Software </p>
 
 ---
 
@@ -76,4 +74,3 @@ Meu objetivo é me destacar como um profissional atualizado, contribuindo para o
 
 ---
 
-Se precisar de mais ajustes ou melhorias específicas, é só avisar!
