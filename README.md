@@ -34,8 +34,8 @@ Meu objetivo é me destacar como um profissional atualizado, contribuindo para o
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackanilto&layout=compact&theme=tokyonight" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=tokyonight" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackanilto&layout=compact&theme=tokyonight" />
 </div>
 
 ---
