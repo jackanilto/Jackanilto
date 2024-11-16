@@ -9,7 +9,7 @@ Aqui está uma versão revisada do seu **README** com melhorias para uma apresen
 
 ### 👨‍💻 Sobre Mim
 
-Meu nome é **Janilto Oliveira**, sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio. Estou sempre em busca de novos conhecimentos por meio de cursos e projetos que ampliem minhas habilidades técnicas e práticas.
+Meu nome é **Janilto Oliveira**, sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio e pós-graduado em Egenharia de software pela Faveni. Estou sempre em busca de novos conhecimentos por meio de cursos e projetos que ampliem minhas habilidades técnicas e práticas.
 
 Meu objetivo é me destacar como um profissional atualizado, contribuindo para o mercado com soluções eficazes e inovadoras.
 
