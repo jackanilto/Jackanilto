@@ -1,52 +1,79 @@
+Aqui está uma versão revisada do seu **README** com melhorias para uma apresentação pessoal ou profissional mais clara, alinhada às boas práticas de estruturação e formatação:
+
+---
+
 <h1 align="center">Janilto Oliveira da Silva</h1>
-<br>
-Meu chamo Janilto Oliveira&reg;, tenho formação em Analise e desenvolvimento de sistemas pela Estácio, continuamente busco experiências fazendo cursos em diversas plataformas.
-Tenho o objetivo de me tornar um profissional atualizado, contribuindo de forma efetiva com o mercado de trabalho.
+<p align="center">
+    Analista de Sistemas | Desenvolvedor Full Stack
+</p>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Meu nome é **Janilto Oliveira**, sou formado em **Análise e Desenvolvimento de Sistemas** pela Estácio. Estou sempre em busca de novos conhecimentos por meio de cursos e projetos que ampliem minhas habilidades técnicas e práticas.
+
+Meu objetivo é me destacar como um profissional atualizado, contribuindo para o mercado com soluções eficazes e inovadoras.
+
+---
+
+### 📫 Contato
 
 <p align="center">
     <a href="mailto:jncenter3@gmail.com">
-        <img width="80px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white">
+        <img width="90px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/janilto-oliveira/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/janilto-oliveira/">
+        <img width="90px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://api.whatsapp.com/send?phone=5522988169294!" target="_blank">
-        <img width="120px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white" target="_blank">
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5522988169294" target="_blank">
+        <img width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
 
+---
 
-<center>
-  <table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Jackanilto&theme=tokyonight" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackanilto&layout=compact&theme=tokyonight" /></td>
-    </tr>   
-  </table>
-</center>
+### 📊 Estatísticas do GitHub
 
+<div align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jackanilto&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackanilto&layout=compact&theme=tokyonight" />
+</div>
 
-### Meus interesses:
+---
+
+### 🛠️ Habilidades Técnicas
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,vscode,spring,github,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mysql,java,idea,angular,vscode,spring,github,figma&perline=9" alt="Minhas Habilidades" />
 </p>
 
-![snake gif](https://github.com/Jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg)
+---
 
+### 🐍 Contribuições
 
-<!--
-**jackanilto/Jackanilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github.com/Jackanilto/Jackanilto/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Interesses Atuais
+
+- Desenvolvimento Full Stack utilizando **Java**, **Node.js** e **React**.
+- Tecnologias de **Cloud Computing** e DevOps.
+- Melhoria contínua em **design de software** e práticas ágeis.
+
+---
+
+### 🚀 Próximos Passos
+
+- Aprender mais sobre **arquiteturas modernas** como microservices.
+- Contribuir ativamente para projetos open source.
+- Aprofundar conhecimentos em **inteligência artificial** e **machine learning**.
+
+---
+
+Se precisar de mais ajustes ou melhorias específicas, é só avisar!
